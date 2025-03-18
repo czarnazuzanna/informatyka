@@ -1,5 +1,5 @@
 # informatyka
-Zuzia Prażmo 2cto jest moj github.
+Zuzia Prażmo 2c to jest moj github.
 Na mojim githubie możemy znaleść zadnaia z następujących tematów:
 
 Pierwszy program w c++
